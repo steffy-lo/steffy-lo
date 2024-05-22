@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **steffy-lo/steffy-lo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![steffy-lo's GitHub | Languages Over Time](https://stats.quine.sh/steffy-lo/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=steffy-lo)
